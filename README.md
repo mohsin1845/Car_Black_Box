@@ -26,6 +26,6 @@ Logged Data Example:
   3. 12:35:45  G4      80
   ```
 ## Car Black Box System
-Below is the block diagram of the Car Black Box:
+Below is the Implementation of the Car Black Box:
 
 ![Car Black Box Diagram](https://github.com/mohsin1845/Car_Black_Box/blob/8c2df5c48cccef3681896ba2f841bd0e694d6772/Images/Screenshot%202024-08-29%20154910.png)
