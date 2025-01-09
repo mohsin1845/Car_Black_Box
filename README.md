@@ -26,4 +26,4 @@ Logged Data Example:
 ## Car Black Box System
 Below is the block diagram of the Car Black Box:
 
-![Car Black Box Diagram](Car_Black-Box/images)
+![Car Black Box Diagram](Images/Screenshot2024-08-29_154857.png)
