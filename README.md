@@ -16,4 +16,5 @@ The system uses a microcontroller to continuously log data from various sensors 
 - **Collision Detection**: Detects impact events and logs them along with corresponding time.
 
 Once the memory reaches 10 logs, the system begins to overwrite the oldest entry, ensuring continuous data recording without loss.
-
+Data logged:  
+Time: 2025-01-09 14:35:22, Gear: 3, Collision: No
