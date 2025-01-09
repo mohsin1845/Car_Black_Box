@@ -21,7 +21,9 @@ Logged Data Example:
 ===================
   ```
    Time      Gear   Speed
-   12:35:22  G3      67
+  1. 12:35:22  G3      67
+  2. 12:35:25  G3      69
+  3. 12:35:45  G4      80
   ```
 ## Car Black Box System
 Below is the block diagram of the Car Black Box:
