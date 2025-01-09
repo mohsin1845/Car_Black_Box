@@ -20,7 +20,7 @@ Once the memory reaches 10 logs, the system begins to overwrite the oldest entry
 Logged Data Example:  
 ===================
   ```
-       Time   Gear   Speed
+  SNo. Time   Gear   Speed
   1. 12:35:22  G3      67
   2. 12:35:25  G3      69
   3. 12:35:45  G4      80
